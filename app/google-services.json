@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "922775967148",
+    "firebase_url": "https://notification-153414.firebaseio.com",
+    "project_id": "notification-153414",
+    "storage_bucket": "notification-153414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922775967148:android:f89310c6175030a9",
+        "android_client_info": {
+          "package_name": "com.example.shahid.fcm_androidclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922775967148-648gjhfoevo3o2u625bftg6v2gje049h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQqR2faeX5Vmf1Ymxuc0796XUyjgAjwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
